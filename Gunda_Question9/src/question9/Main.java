@@ -10,6 +10,7 @@ package question9;
  * @author Gunda Sai Naga Anu Teja
  */
 
+
 interface PharmacyName {
   public void cvsPahrmacy();
   public void walgreens();
